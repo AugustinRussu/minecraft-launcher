@@ -1,5 +1,5 @@
 {
-  "name": "Build-ul meu",
+  "name": "Hi-Tech 1.7.10",
   "slug": "build-ul-meu",
   "version": "1.0.0",
   "minecraftVersion": "1.7.10",
@@ -117,5 +117,5 @@
     "pvp": true
   },
   "createdBy": "constructor",
-  "publishedAt": "2026-07-25T17:54:13.368Z"
+  "publishedAt": "2026-07-25T18:32:14.566Z"
 }

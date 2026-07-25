@@ -11,12 +11,12 @@
     },
     {
       "slug": "build-ul-meu",
-      "name": "Build-ul meu",
+      "name": "Hi-Tech 1.7.10",
       "version": "1.0.0",
       "minecraftVersion": "1.7.10",
       "loader": "forge",
       "manifestUrl": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/manifest.json",
-      "updatedAt": "2026-07-25T17:54:25.329Z"
+      "updatedAt": "2026-07-25T18:32:25.925Z"
     }
   ]
 }
