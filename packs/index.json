@@ -8,6 +8,15 @@
       "loader": "fabric",
       "manifestUrl": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/manifest.json",
       "updatedAt": "2026-07-25T16:29:18.956Z"
+    },
+    {
+      "slug": "build-ul-meu-k7929",
+      "name": "Build-ul meu",
+      "version": "1.0.0",
+      "minecraftVersion": "1.7.10",
+      "loader": "forge",
+      "manifestUrl": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu-k7929/manifest.json",
+      "updatedAt": "2026-07-25T16:44:18.734Z"
     }
   ]
 }
