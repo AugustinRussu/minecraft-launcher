@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "slug": "build-ul-meu",
+      "name": "Build-ul meu",
+      "version": "1.0.0",
+      "minecraftVersion": "26.2",
+      "loader": "fabric",
+      "manifestUrl": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/manifest.json",
+      "updatedAt": "2026-07-25T16:29:18.956Z"
+    }
+  ]
+}
