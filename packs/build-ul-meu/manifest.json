@@ -1,0 +1,121 @@
+{
+  "name": "Build-ul meu",
+  "slug": "build-ul-meu",
+  "version": "1.0.0",
+  "minecraftVersion": "1.7.10",
+  "loader": "forge",
+  "loaderVersion": null,
+  "mods": [
+    {
+      "source": "file",
+      "fileName": "ThermalDynamics-_1.7.10_1.2.1-172.jar",
+      "storedAs": "1785002038081-ThermalDynamics-_1.7.10_1.2.1-172.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/ThermalDynamics-_1.7.10_1.2.1-172.jar",
+      "sha1": "e22847e8b2286219c1c8833ba264916a6729762d",
+      "size": 632485,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "ThermalFoundation-_1.7.10_1.2.6-118.jar",
+      "storedAs": "1785002038135-ThermalFoundation-_1.7.10_1.2.6-118.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/ThermalFoundation-_1.7.10_1.2.6-118.jar",
+      "sha1": "5a8b566c655738fe02c749206f3e87d32ce74015",
+      "size": 2316321,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "PowerConverters-1.7.10-2.11.jar",
+      "storedAs": "1785002038154-PowerConverters-1.7.10-2.11.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/PowerConverters-1.7.10-2.11.jar",
+      "sha1": "05ee43310cf951bb4fd8cf7f42c46d21b0bada55",
+      "size": 250673,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "IC2NuclearControl-2.4.5a.jar",
+      "storedAs": "1785002038197-IC2NuclearControl-2.4.5a.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/IC2NuclearControl-2.4.5a.jar",
+      "sha1": "2abfcc03e4e4b5f04918a77515ffb4936d437321",
+      "size": 1038120,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "GravitationSuite.jar",
+      "storedAs": "1785002038211-GravitationSuite.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/GravitationSuite.jar",
+      "sha1": "ec7d2f09fff4bbc5de0abf59db790c775df67fa2",
+      "size": 380644,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "AdvancedSolarPanel_1.7.10_Edition.jar",
+      "storedAs": "1785002038223-AdvancedSolarPanel_1.7.10_Edition.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/AdvancedSolarPanel_1.7.10_Edition.jar",
+      "sha1": "6cfe2b7bfbde96bc2f2e41878c18840f71abcc90",
+      "size": 305650,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "buildcraft-7.1.27.jar",
+      "storedAs": "1785002038281-buildcraft-7.1.27.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/buildcraft-7.1.27.jar",
+      "sha1": "2519edb9bbee1ea841829057265d683764f13c79",
+      "size": 2561047,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "EnderIO-1.7.10-2.2.8.381.jar",
+      "storedAs": "1785002038386-EnderIO-1.7.10-2.2.8.381.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/EnderIO-1.7.10-2.2.8.381.jar",
+      "sha1": "cc816855e405912c661ac0d42a34bcadff9fe712",
+      "size": 4066035,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "forestry_1.7.10-4.2.15.63.jar",
+      "storedAs": "1785002038466-forestry_1.7.10-4.2.15.63.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/forestry_1.7.10-4.2.15.63.jar",
+      "sha1": "cdf0978c095cb1aa0a0e13013448552472466d7e",
+      "size": 3322341,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "appliedenergistics2-rv3-beta-6.jar",
+      "storedAs": "1785002038536-appliedenergistics2-rv3-beta-6.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/appliedenergistics2-rv3-beta-6.jar",
+      "sha1": "e8ada3103524805d4a84b544bdf8c286bbc2e2c7",
+      "size": 2924325,
+      "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "industrialcraft-2-2.2.828-experimental.jar",
+      "storedAs": "1785002038679-industrialcraft-2-2.2.828-experimental.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/industrialcraft-2-2.2.828-experimental.jar",
+      "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
+      "size": 5633947,
+      "published": true
+    }
+  ],
+  "server": {
+    "address": "",
+    "port": 25565,
+    "motd": "",
+    "maxPlayers": 20,
+    "difficulty": "normal",
+    "gamemode": "survival",
+    "whitelist": false,
+    "pvp": true
+  },
+  "createdBy": "constructor",
+  "publishedAt": "2026-07-25T17:54:13.368Z"
+}
