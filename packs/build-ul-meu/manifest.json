@@ -1,0 +1,21 @@
+{
+  "name": "Build-ul meu",
+  "slug": "build-ul-meu",
+  "version": "1.0.0",
+  "minecraftVersion": "26.2",
+  "loader": "fabric",
+  "loaderVersion": null,
+  "mods": [],
+  "server": {
+    "address": "",
+    "port": 25565,
+    "motd": "",
+    "maxPlayers": 20,
+    "difficulty": "normal",
+    "gamemode": "survival",
+    "whitelist": false,
+    "pvp": true
+  },
+  "createdBy": "admin",
+  "publishedAt": "2026-07-25T16:29:17.793Z"
+}
