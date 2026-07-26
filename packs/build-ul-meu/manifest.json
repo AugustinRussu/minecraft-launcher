@@ -5,6 +5,10 @@
   "minecraftVersion": "1.7.10",
   "loader": "forge",
   "loaderVersion": null,
+  "javaVersion": {
+    "component": "jre-legacy",
+    "majorVersion": 8
+  },
   "mods": [
     {
       "source": "file",
@@ -113,6 +117,15 @@
       "sha1": "b7d66be19a6898232f5498a50ac0207109a3b2e6",
       "size": 1230511,
       "published": true
+    },
+    {
+      "source": "file",
+      "fileName": "OptiFine_1.7.10_HD_U_E7.jar",
+      "storedAs": "1785026501850-OptiFine_1.7.10_HD_U_E7.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/OptiFine_1.7.10_HD_U_E7.jar",
+      "sha1": "2130d7266224da6a7325051e37444f7e7c19277c",
+      "size": 1774165,
+      "published": true
     }
   ],
   "server": {
@@ -126,5 +139,5 @@
     "pvp": true
   },
   "createdBy": "constructor",
-  "publishedAt": "2026-07-26T00:10:06.022Z"
+  "publishedAt": "2026-07-26T00:41:42.948Z"
 }
