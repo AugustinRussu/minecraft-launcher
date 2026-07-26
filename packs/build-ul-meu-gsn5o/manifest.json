@@ -18,6 +18,26 @@
       "sha1": "2130d7266224da6a7325051e37444f7e7c19277c",
       "size": 1774165,
       "published": true
+    },
+    {
+      "projectId": "YRBOv8ax",
+      "versionId": "oH3EUhNk",
+      "versionNumber": "0.4.3-unofficial",
+      "fileName": "neodymium-mc1.7.10-0.4.3-unofficial.jar",
+      "url": "https://cdn.modrinth.com/data/YRBOv8ax/versions/oH3EUhNk/neodymium-mc1.7.10-0.4.3-unofficial.jar",
+      "sha1": "1a3bb0c418ab0b3e4c9b38c553f097ccdc407227",
+      "size": 156188,
+      "title": "Neodymium Unofficial"
+    },
+    {
+      "projectId": "ghjoiQAl",
+      "versionId": "SeOh2lEZ",
+      "versionNumber": "1.7.10-0.3.1",
+      "fileName": "+unimixins-all-1.7.10-0.3.1.jar",
+      "url": "https://cdn.modrinth.com/data/ghjoiQAl/versions/SeOh2lEZ/%2Bunimixins-all-1.7.10-0.3.1.jar",
+      "sha1": "75f9251b1ac4eeacdce0b86a1a68bd8ff4fbf604",
+      "size": 5519796,
+      "title": "UniMixins"
     }
   ],
   "server": {
@@ -31,5 +51,5 @@
     "pvp": true
   },
   "createdBy": "constructor",
-  "publishedAt": "2026-07-26T00:55:30.751Z"
+  "publishedAt": "2026-07-26T01:06:04.080Z"
 }
