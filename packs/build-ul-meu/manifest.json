@@ -186,15 +186,6 @@
       "sha1": "85fb074320b2cacb1dec790ab894f7d57a67b2ef",
       "size": 73037,
       "published": true
-    },
-    {
-      "source": "file",
-      "fileName": "fastcraft-1.25.jar",
-      "storedAs": "1785028924532-fastcraft-1.25.jar",
-      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/fastcraft-1.25.jar",
-      "sha1": "196ebe3d9bb2085e000f0cc6be177d30d0b7190d",
-      "size": 183482,
-      "published": true
     }
   ],
   "server": {
@@ -208,5 +199,5 @@
     "pvp": true
   },
   "createdBy": "constructor",
-  "publishedAt": "2026-07-26T01:29:31.453Z"
+  "publishedAt": "2026-07-26T01:34:16.813Z"
 }
