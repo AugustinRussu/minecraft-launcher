@@ -1,0 +1,35 @@
+{
+  "name": "Build-ul meu",
+  "slug": "build-ul-meu-gsn5o",
+  "version": "1.0.0",
+  "minecraftVersion": "1.7.10",
+  "loader": "forge",
+  "loaderVersion": null,
+  "javaVersion": {
+    "component": "jre-legacy",
+    "majorVersion": 8
+  },
+  "mods": [
+    {
+      "source": "file",
+      "fileName": "OptiFine_1.7.10_HD_U_E7.jar",
+      "storedAs": "1785027237873-OptiFine_1.7.10_HD_U_E7.jar",
+      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu-gsn5o/mods/OptiFine_1.7.10_HD_U_E7.jar",
+      "sha1": "2130d7266224da6a7325051e37444f7e7c19277c",
+      "size": 1774165,
+      "published": true
+    }
+  ],
+  "server": {
+    "address": "",
+    "port": 25565,
+    "motd": "",
+    "maxPlayers": 20,
+    "difficulty": "normal",
+    "gamemode": "survival",
+    "whitelist": false,
+    "pvp": true
+  },
+  "createdBy": "constructor",
+  "publishedAt": "2026-07-26T00:54:00.698Z"
+}

@@ -17,6 +17,15 @@
       "loader": "forge",
       "manifestUrl": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/manifest.json",
       "updatedAt": "2026-07-26T00:41:55.784Z"
+    },
+    {
+      "slug": "build-ul-meu-gsn5o",
+      "name": "Build-ul meu",
+      "version": "1.0.0",
+      "minecraftVersion": "1.7.10",
+      "loader": "forge",
+      "manifestUrl": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu-gsn5o/manifest.json",
+      "updatedAt": "2026-07-26T00:54:02.606Z"
     }
   ]
 }
