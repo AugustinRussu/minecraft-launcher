@@ -66,15 +66,6 @@
     },
     {
       "source": "file",
-      "fileName": "buildcraft-7.1.27.jar",
-      "storedAs": "1785023159969-buildcraft-7.1.27.jar",
-      "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/buildcraft-7.1.27.jar",
-      "sha1": "2519edb9bbee1ea841829057265d683764f13c79",
-      "size": 2561047,
-      "published": true
-    },
-    {
-      "source": "file",
       "fileName": "EnderIO-1.7.10-2.2.8.381.jar",
       "storedAs": "1785023160075-EnderIO-1.7.10-2.2.8.381.jar",
       "url": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu/mods/EnderIO-1.7.10-2.2.8.381.jar",
@@ -217,5 +208,5 @@
     "pvp": true
   },
   "createdBy": "constructor",
-  "publishedAt": "2026-07-26T01:23:08.783Z"
+  "publishedAt": "2026-07-26T01:29:31.453Z"
 }
