@@ -20,12 +20,12 @@
     },
     {
       "slug": "build-ul-meu-gsn5o",
-      "name": "Build-ul meu",
+      "name": "Exemplu",
       "version": "1.0.0",
       "minecraftVersion": "1.7.10",
       "loader": "forge",
       "manifestUrl": "https://raw.githubusercontent.com/AugustinRussu/minecraft-launcher/main/packs/build-ul-meu-gsn5o/manifest.json",
-      "updatedAt": "2026-07-26T00:54:02.606Z"
+      "updatedAt": "2026-07-26T00:55:32.991Z"
     }
   ]
 }
